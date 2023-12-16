@@ -1,0 +1,8 @@
+Id,Date,From,To,D/C,Amount,Narration,Balance
+159,04/09/2021,Bank of Baroda,Food,Debit,10,Lady Finger,2420.83
+160,04/09/2021,Bank of Baroda,Baba,Debit,2,For Cashback,2418.83
+164,06/09/2021,Bank of Baroda,Food,Debit,50,"Gourav-> ShevPav, Lassi",2368.83
+165,12/09/2021,Bank of Baroda,Baba,Debit,1,"For Cashback, got 0",2367.83
+166,12/09/2021,Baba,Bank of Baroda,Credit,346,By Mistake,2713.83
+167,12/09/2021,Bank of Baroda,Mobile Recharge Aai Jio,Debit,109,Sept - Oct,2604.83
+170,13/09/2021,Bank of Baroda,Mobile Recharge My Jio,Debit,134,Sept - Oct,2470.83

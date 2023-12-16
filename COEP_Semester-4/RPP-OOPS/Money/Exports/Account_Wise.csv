@@ -1,0 +1,328 @@
+Id,Date,From,To,D/C,Amount,Narration,Balance
+1,2021-01-01,Baba,Bank of Baroda,Credit,2860.23,Opening Balance,2860.23
+2,2021-01-02,Bank of Baroda,Personal Expenses,Debit,50.0,Terpent Oil,2810.23
+3,2021-01-11,Bank of Baroda,Mobile Recharge My Jio,Debit,149.0,8208419540,2661.23
+4,2021-01-12,Bank of Baroda,Mobile Recharge Aai Jio,Debit,149.0,9373594879,2512.23
+5,2021-01-12,Bank of Baroda,Stationery,Debit,60.0,Lamination,2452.23
+6,2021-01-12,Bank of Baroda,Food,Debit,48.0,Milk,2404.23
+7,2021-01-14,Bank of Baroda,Food,Debit,48.0,Milk,2356.23
+11,2021-01-16,Bank of Baroda,Food,Debit,25.0,Kuka,2331.23
+13,2021-01-17,Bank of Baroda,Food,Debit,48.0,Milk,2283.23
+15,2021-01-18,Bank of Baroda,Stationery,Debit,60.0,A4 size book for Practials,2223.23
+16,2021-02-01,Bank,Bank of Baroda,Credit,17.0,Bank Intrest,2240.23
+17,2021-02-02,Bank of Baroda,Haircut,Debit,100.0,Haircut,2140.23
+18,2021-02-02,Bank of Baroda,Personal Expenses,Debit,20.0,Tooth Brush,2120.23
+19,2021-02-04,Bank of Baroda,Mobile Recharge My Jio,Debit,149.0,February Month,1971.23
+20,2021-02-04,Baba,Bank of Baroda,Credit,1000.0,,2971.23
+21,2021-02-04,Bank of Baroda,Mobile Recharge Aai Jio,Debit,149.0,February,2822.23
+23,2021-02-09,Bank of Baroda,Food,Debit,35.0,Dahi,2787.23
+24,2021-2-15,Bank of Baroda,Medicine,Debit,150.0,Enerzal,2637.23
+25,2021-2-15,Bank of Baroda,Food,Debit,50.0,Banana,2587.23
+26,2021-02-17,Bank of Baroda,Medicine,Debit,140.0,Boric Powder and Enerzal,2447.23
+27,2021-02-19,Bank of Baroda,Food,Debit,99.0,Gulab Jamun Mix,2348.23
+28,2021-02-24,Maha DBT,Bank of Baroda,Credit,200.0,"Scholarship 2019-20, 2nd Installment",2548.23
+29,2021-02-27,Bank of Baroda,Food,Debit,48.0,Milk,2500.23
+30,2021-02-27,Bank of Baroda,Stationery,Debit,10.0,Gel Pen,2490.23
+31,2021-02-27,Bank of Baroda,Grocery,Debit,45.0,Patanjali Toothpaste,2445.23
+32,2021-03-01,Bank of Baroda,Mobile Recharge My Jio,Debit,149.0,March,2296.23
+33,2021-03-01,Bank of Baroda,Mobile Recharge Aai Jio,Debit,149.0,March,2147.23
+34,2021-03-01,Bank of Baroda,Medicine,Debit,225.0,Jambavasava,1922.23
+35,2021-03-01,Baba,Bank of Baroda,Credit,1000.0,,2922.23
+36,2021-03-07,Bank of Baroda,Food,Debit,48.0,Milk,2874.23
+37,2021-03-07,Bank of Baroda,Food,Debit,3.0,Center Fresh,2871.23
+38,2021-03-14,Bank of Baroda,Bank,Debit,17.7,SMS Alert Charges,2853.53
+39,2021-3-17,Bank of Baroda,Food,Debit,48.0,Milk,2805.53
+40,2021-3-17,Bank of Baroda,Food,Debit,40.0,1 kg Carrot,2765.53
+42,2021-3-18,Bank of Baroda,Baba,Debit,10.0,Checking the Speed.,2755.53
+43,2021-03-18,Bank of Baroda,Personal Expenses,Debit,45.0,Glycerin,2710.53
+44,2021-03-18,Bank of Baroda,Personal Expenses,Debit,5.0,Choclate,2705.53
+45,2021-3-19,Bank of Baroda,Food,Debit,48.0,Milk,2657.53
+46,2021-3-19,Bank of Baroda,Food,Debit,10.0,Green Chilly,2647.53
+47,2021-3-20,Bank of Baroda,Food,Debit,160.0,"3-Patanjali Noodles, 1-Toast Packet",2487.53
+48,2021-3-20,Bank of Baroda,Food,Debit,77.0,Quaker Oats,2410.53
+49,2021-3-23,Bank of Baroda,Food,Debit,48.0,Milk,2362.53
+50,2021-3-24,Bank of Baroda,Food,Debit,48.0,Milk,2314.53
+51,2021-3-25,Bank of Baroda,Mobile Recharge Aai Jio,Debit,149.0,March-April,2165.53
+52,2021-3-25,Bank of Baroda,Mobile Recharge My Jio,Debit,149.0,March-April,2016.53
+53,2021-3-25,Bank of Baroda,Food,Debit,48.0,Milk,1968.53
+54,2021-3-25,Baba,Bank of Baroda,Credit,1000.0,,2968.53
+55,2021-3-28,Bank of Baroda,Stationery,Debit,180.0,A4 size Paper Rim 500 Pages,2788.53
+56,2021-3-28,Bank of Baroda,Food,Debit,83.0,"Milk, Curd",2705.53
+57,2021-3-28,Bank of Baroda,Personal Expenses,Debit,10.0,Gulal,2695.53
+58,2021-4-2,Bank of Baroda,Food,Debit,48.0,Milk,2647.53
+59,2021-4-2,Bank of Baroda,Haircut,Debit,100.0,Soldier Cut,2547.53
+60,2021-4-2,Bank of Baroda,Food,Debit,29.0,Milk,2518.53
+61,2021-4-9,Bank of Baroda,Food,Debit,48.0,Milk,2470.53
+62,2021-4-13,MPL,Bank of Baroda,Credit,18.0,Fruit Dart - First Play,2488.53
+63,2021-4-13,MPL,Bank of Baroda,Credit,5.0,Fruit Dart,2493.53
+64,2021-4-14,MPL,Bank of Baroda,Credit,10.0,MI vs KKR Fantasy Team,2503.53
+65,2021-4-14,MPL,Bank of Baroda,Credit,10.0,Aai's Account - Fruit Dart,2513.53
+66,2021-4-14,MPL,Bank of Baroda,Credit,16.0,Aai's Account - Fruit Dart,2529.53
+67,2021-4-15,MPL,Bank of Baroda,Credit,15.0,Aai's Account - SRH vs RCB Fantasy Team,2544.53
+68,2021-4-15,Bank of Baroda,Food,Debit,30.0,Shimla and Green Mirch,2514.53
+69,2021-4-15,Bank of Baroda,Food,Debit,35.0,Curd,2479.53
+70,2021-4-15,Bank of Baroda,Food,Debit,50.0,Frozen Green Peas,2429.53
+71,2021-4-15,Bank of Baroda,Food,Debit,63.0,Cream,2366.53
+72,2021-4-16,MPL,Bank of Baroda,Credit,4.0,My Account - Speed Chess [2 Tournaments],2370.53
+73,2021-4-17,MPL,Bank of Baroda,Credit,6.0,Fruit Chop [2 Tournaments],2376.53
+74,2021-4-18,Bank of Baroda,Mobile Recharge My Jio,Debit,149.0,April - May,2227.53
+75,2021-4-19,Bank of Baroda,Mobile Recharge Aai VI,Debit,49.0,April - May,2178.53
+76,2021-4-19,Bank of Baroda,Mobile Recharge Aai Jio,Debit,149.0,April - May,2029.53
+77,2021-4-22,MPL,Bank of Baroda,Credit,5.0,Gourav My11 - PK vs SRH,2034.53
+78,2021-4-24,MPL,Bank of Baroda,Credit,10.0,Gourav My11 - MI vs PK,2044.53
+79,2021-4-29,MPL,Bank of Baroda,Credit,5.0,Gourav My11 - MI vs RR,2049.53
+80,2021-5-1,Bank,Bank of Baroda,Credit,17.0,Bank Interest,2066.53
+81,2021-5-3,MPL,Bank of Baroda,Credit,5.0,Gourav My11 - SRH vs RR,2071.53
+82,2021-5-10,Baba,Bank of Baroda,Credit,500.0,For the Google Pay and Paytm,2571.53
+83,2021-5-10,Bank of Baroda,Baba,Debit,151.0,Google Pay 1st Transaction,2420.53
+84,2021-5-10,Google Pay,Bank of Baroda,Credit,21.0,1st Cashback,2441.53
+85,2021-5-10,Bank of Baroda,Food,Debit,150.0,Chapati,2291.53
+86,2021-5-10,Bank of Baroda,Baba,Debit,1.0,Paytm 1st Transaction,2290.53
+87,2021-5-10,Paytm,Bank of Baroda,Credit,5.0,1st Cashback,2295.53
+88,2021-5-10,Bank of Baroda,Baba,Debit,1.0,"By Paytm for reward, got 0",2294.53
+89,2021-5-10,Bank of Baroda,Mobile Recharge Aai Jio,Debit,149.0,May - June,2145.53
+90,2021-5-10,Paytm,Bank of Baroda,Credit,20.0,Cashback On Aai's Recharge,2165.53
+91,2021-5-12,Baba,Bank of Baroda,Credit,51.0,For D2H payment,2216.53
+92,2021-5-12,Bank of Baroda,D2H,Debit,200.0,By Google Pay,2016.53
+93,2021-5-12,Google Pay,Bank of Baroda,Credit,27.0,For D2H payment,2043.53
+95,2021-6-2,Baba,Bank of Baroda,Credit,500.0,,2543.53
+96,2021-6-2,Bank of Baroda,Electricity Bill,Debit,240.0,May Electricity Bill,2303.53
+98,2021-6-2,Bank of Baroda,Paytm Voucher,Debit,1.0,By Mistakely lel,2302.53
+99,2021-6-5,Bank of Baroda,Mobile Recharge Aai Jio,Debit,149.0,June-July,2153.53
+100,2021-6-7,Bank of Baroda,Bank,Debit,17.7,SMS Charges,2135.83
+101,2021-6-7,Bank of Baroda,Food,Debit,30.0,Potatoes,2105.83
+102,2021-6-7,Baba,Bank of Baroda,Credit,500.0,,2605.83
+103,2021-6-7,Bank of Baroda,Mobile Recharge My Jio,Debit,149.0,June-July,2456.83
+104,2021-6-13,MPL,Bank of Baroda,Credit,3.0,Aai's VI Account,2459.83
+105,2021-6-13,MPL,Bank of Baroda,Credit,19.0,Aai's VI Account,2478.83
+106,2021-6-14,MPL,Bank of Baroda,Credit,6.0,Aai's VI Account,2484.83
+107,2021-6-15,MPL,Bank of Baroda,Credit,6.0,Aai's VI Account,2490.83
+108,2021-6-17,Bank of Baroda,Food,Debit,96.0,2 Litre Milk,2394.83
+109,2021-6-20,Baba,Bank of Baroda,Credit,1000.0,For Exam Fee,3394.83
+110,2021-6-20,Bank of Baroda,College Stuff,Debit,400.0,Exam Form,2994.83
+111,2021-6-21,Bank of Baroda,Food,Debit,251.0,Samose,2743.83
+112,2021-6-21,Bank of Baroda,Electricity Bill,Debit,340.0,May,2403.83
+113,2021-6-21,Google Pay,Bank of Baroda,Credit,5.0,CashBack,2408.83
+114,2021-6-21,Bank of Baroda,Food,Debit,96.0,Milk,2312.83
+115,2021-6-26,Bank of Baroda,Food,Debit,96.0,Milk,2216.83
+116,2021-6-27,Bank of Baroda,D2H,Debit,151.0,D2H Payment,2065.83
+117,2021-7-1,Bank of Baroda,Mobile Recharge Aai Jio,Debit,48.0,"July, another amt from Paytm",2017.83
+120,2021-7-1,Baba,Bank of Baroda,Credit,500.0,,2517.83
+121,2021-7-1,Bank of Baroda,Food,Debit,196.0,"Milk, Patanjali Noodles",2321.83
+122,2021-7-1,Google Pay,Bank of Baroda,Credit,5.0,Cashback,2326.83
+123,2021-7-2,Bank of Baroda,Mobile Recharge My Jio,Debit,145.0,"July, other amt from Paytm V",2181.83
+125,2021-7-5,Bank of Baroda,Food,Debit,96.0,Milk,2085.83
+126,2021-7-12,Bank of Baroda,Food,Debit,100.0,Milk,1985.83
+127,2021-7-26,Baba,Bank of Baroda,Credit,200.0,,2185.83
+128,2021-7-26,Bank of Baroda,Mobile Recharge Aai Jio,Debit,149.0,July-August,2036.83
+129,2021-7-31,Baba,Bank of Baroda,Credit,300.0,,2336.83
+130,2021-7-31,Bank of Baroda,Food,Debit,35.0,Lady-Finger and Potatoes,2301.83
+131,2021-8-2,Bank,Bank of Baroda,Credit,15.0,Bank Interest,2316.83
+132,2021-8-14,Bank of Baroda,Baba,Debit,20.0,First Transaction from Amazon Pay,2296.83
+134,2021-8-15,Bank of Baroda,Food,Debit,15.0,Potatoes,2281.83
+135,2021-8-15,Bank of Baroda,Food,Debit,10.0,Chilly,2271.83
+138,2021-8-18,Bank of Baroda,Travelling,Debit,120.0,To Suman Maushi by Auto,2151.83
+140,2021-8-20,Bank of Baroda,Baba,Debit,1.0,For CashBack,2150.83
+142,2021-8-20,Bank of Baroda,Baba,Debit,1.0,For CashBack,2149.83
+144,2021-8-21,Bank of Baroda,Medicine,Debit,42.0,Glycomet SR 500,2107.83
+145,2021-8-21,Bank of Baroda,Grocery,Debit,25.0,Coconut,2082.83
+146,2021-8-21,Bank of Baroda,Grocery,Debit,62.0,Garland,2020.83
+147,2021-8-21,Bank of Baroda,Grocery,Debit,10.0,Vida che Paana,2010.83
+148,2021-8-21,Baba,Bank of Baroda,Credit,500.0,,2510.83
+149,2021-8-21,Bank of Baroda,Food,Debit,10.0,Onions,2500.83
+154,2021-8-30,Bank of Baroda,Food,Debit,25.0,"To Gourav, KUKA",2475.83
+157,2021-8-30,Bank of Baroda,Food,Debit,45.0,Milk and Toothpaste,2430.83
+159,2021-9-4,Bank of Baroda,Food,Debit,10.0,Lady Finger,2420.83
+160,2021-9-4,Bank of Baroda,Baba,Debit,2.0,For Cashback,2418.83
+164,2021-9-6,Bank of Baroda,Food,Debit,50.0,"Gourav-> ShevPav, Lassi",2368.83
+165,2021-9-12,Bank of Baroda,Baba,Debit,1.0,"For Cashback, got 0",2367.83
+166,2021-9-12,Baba,Bank of Baroda,Credit,346.0,By Mistake,2713.83
+167,2021-9-12,Bank of Baroda,Mobile Recharge Aai Jio,Debit,109.0,Sept - Oct,2604.83
+170,2021-9-13,Bank of Baroda,Mobile Recharge My Jio,Debit,134.0,Sept - Oct,2470.83
+173,2021-9-22,Swags,Bank of Baroda,Credit,800.0,Tango Card Exchanged,3270.83
+174,2021-9-22,Bank of Baroda,Electricity Bill,Debit,190.0,September,3080.83
+176,2021-10-3,Bank of Baroda,Personal Expenses,Debit,644.0,Sparx Shoes for Baba,2436.83
+181,2021-10-6,Swags,Bank of Baroda,Credit,1500.0,TrustRadius-Zoho Review,3936.83
+182,2021-10-6,Maha DBT,Bank of Baroda,Credit,200.0,Scholarship 2nd Year,4136.83
+183,2021-10-6,Swags,Bank of Baroda,Credit,139.0,TrustRadius-Zoho Review,4275.83
+184,2021-10-6,Bank of Baroda,Mobile Recharge Aai Jio,Debit,145.0,October,4130.83
+186,2021-10-8,Bank of Baroda,Mobile Recharge My Jio,Debit,149.0,October,3981.83
+188,2021-10-11,Baba,Bank of Baroda,Credit,25.0,For Cashback,4006.83
+189,2021-10-11,Bank of Baroda,Travelling,Debit,700.0,Aai's trips to School,3306.83
+193,2021-10-12,Baba,Bank of Baroda,Credit,20.0,For Cashback,3326.83
+194,2021-10-12,Bank of Baroda,Personal Expenses,Debit,269.0,Safari Bag,3057.83
+201,2021-10-16,Swags,Bank of Baroda,Credit,1869.52,3 Capterra Review,4927.35
+202,2021-10-17,Amazon Pay,Bank of Baroda,Credit,262.1,Safari Bag Returned,5189.45
+203,2021-10-17,Bank of Baroda,Food,Debit,10.0,Chilly,5179.45
+204,2021-10-19,Bank of Baroda,Food,Debit,42.0,Salt and Potatoes,5137.45
+206,2021-10-22,Bank of Baroda,Food,Debit,96.0,Milk,5041.45
+207,2021-10-22,Bank of Baroda,Food,Debit,35.0,Cabbage,5006.45
+208,2021-10-25,Bank of Baroda,Mobile Recharge Aai VI,Debit,50.0,Oct-Nov,4956.45
+212,2021-10-30,Bank of Baroda,Baba,Debit,1.0,For Cashback,4955.45
+214,2021-10-31,Bank of Baroda,Mobile Recharge Aai Jio,Debit,149.0,Oct-Nov,4806.45
+215,2021-10-29,Bank of Baroda,Bank,Debit,177.0,Debit Card Fee,4629.45
+216,2021-11-1,Bank,Bank of Baroda,Credit,21.0,Bank Interest,4650.45
+217,2021-11-1,Bank of Baroda,Mobile Recharge My Jio,Debit,124.0,November,4526.45
+221,2021-11-1,Bank of Baroda,Haircut,Debit,50.0,Aaji's haircut,4476.45
+222,2021-11-4,Bank of Baroda,Food,Debit,105.0,Pedhe and Bananas,4371.45
+223,2021-11-4,Swags,Bank of Baroda,Credit,780.0,Dev API 15$ Tango,5151.45
+224,2021-11-4,Bank of Baroda,Baba,Debit,3000.0,From Swags,2151.45
+225,2021-11-5,Swags,Bank of Baroda,Credit,3984.0,Dynatrace 60$ Visa,6135.45
+226,2021-11-5,Bank of Baroda,Baba,Debit,3633.0,From Swags,2502.45
+227,2021-11-5,Bank of Baroda,BOB RD,Debit,2000.0,RD of 9 Months,502.45
+228,2021-11-5,Baba,Bank of Baroda,Credit,2000.0,For RD,2502.45
+229,2021-11-8,Bank of Baroda,Food,Debit,48.0,Milk,2454.45
+230,2021-11-9,Swags,Bank of Baroda,Credit,200.0,5$ Starbucks,2654.45
+231,2021-11-10,Swags,Bank of Baroda,Credit,400.0,Two 5$ Starbucks,3054.45
+232,2021-11-11,Baba,Bank of Baroda,Credit,2000.0,For Viju Aatya's Reservation,5054.45
+233,2021-11-11,Bank of Baroda,Travelling,Debit,1635.75,Viju Aatya's Reservation,3418.70
+234,2021-11-11,Swags,Bank of Baroda,Credit,274.0,5$ Mastercard,3692.70
+235,2021-11-12,Swags,Bank of Baroda,Credit,1200.0,25$ Amazon GC,4892.70
+236,2021-11-15,Bank of Baroda,Food,Debit,20.0,Potatoes,4872.70
+237,2021-11-15,Bank of Baroda,Food,Debit,120.0,Bread,4752.70
+238,2021-11-15,Bank of Baroda,Food,Debit,65.0,,4687.70
+239,2021-11-17,Travelling,Bank of Baroda,Credit,1535.0,Viju Aaty's Ticket Return,6222.70
+241,2021-11-25,Swags,Bank of Baroda,Credit,771.0,Austin 15$ Tango,6993.70
+245,2021-11-29,Bank of Baroda,Food,Debit,90.0,Green Peas and idk,6903.70
+246,2021-11-29,Swags,Bank of Baroda,Credit,771.0,15$ Tango Card,7674.70
+247,2021-12-2,Bank of Baroda,BOB RD,Debit,2000.0,December,5674.70
+248,2021-12-4,Crypto Currency,Bank of Baroda,Credit,1.0,Account Opening,5675.70
+249,2021-12-6,Bank of Baroda,Food,Debit,210.0,Vegetables & Fruits,5465.70
+250,2021-12-7,Bank of Baroda,Crypto Currency,Debit,101.18,For Investment in CoinDCX,5364.52
+251,2021-12-7,Bank of Baroda,Personal Expenses,Debit,15.0,Cycle Repairing,5349.52
+252,2021-12-7,Bank of Baroda,Stationery,Debit,70.0,Lexi Ball Pen Set,5279.52
+253,2021-12-7,Bank of Baroda,Food,Debit,5.0,Center Fresh,5274.52
+254,2021-12-7,Swags,Bank of Baroda,Credit,200.0,5$ Amazon Gift Card,5474.52
+255,2021-12-8,Bank of Baroda,Food,Debit,35.0,Tomatoes & Coreinder,5439.52
+256,2021-12-10,Bank of Baroda,Food,Debit,90.0,"Tomato, Onion, Green Peas",5349.52
+257,2021-12-10,Bank of Baroda,Personal Expenses,Debit,259.0,Belt,5090.52
+259,2021-12-10,Bank of Baroda,Food,Debit,350.0,Vegetable,4740.52
+262,2021-12-11,Bank of Baroda,Baba,Debit,20.0,For Cashback,4720.52
+264,2021-12-11,Bank of Baroda,Personal Expenses,Debit,500.0,Aai's Party,4220.52
+265,2021-12-11,Bank of Baroda,Food,Debit,85.0,Potatoes and Chilly,4135.52
+270,2021-12-14,Bank of Baroda,Personal Expenses,Debit,50.0,Mobile Screen Guard,4085.52
+274,2021-12-14,Swags,Bank of Baroda,Credit,1200.0,30$ Starbucks,5285.52
+275,2021-12-14,Baba,Bank of Baroda,Credit,8.0,From Paytm Bank,5293.52
+276,2021-12-15,Bank of Baroda,Food,Debit,70.0,Vegetables,5223.52
+277,2021-12-15,Bank of Baroda,Personal Expenses,Debit,2670.0,2 Hawkins Kadhai,2553.52
+278,2021-12-16,Bank of Baroda,Food,Debit,35.0,Dahi,2518.52
+279,2021-12-16,Swags,Bank of Baroda,Credit,183.0,10$ Starbucks,2701.52
+281,2021-12-17,Maha DBT,Bank of Baroda,Credit,200.0,Scholarship 2nd Installment,2901.52
+282,2021-12-18,Bank of Baroda,Mobile Recharge My Jio,Debit,15.0,Data Recharge Offer,2886.52
+284,2021-12-17,Bank of Baroda,Mobile Recharge Aai Jio,Debit,134.0,,2752.52
+286,2021-12-19,Bank of Baroda,Food,Debit,90.0,Bread and Tomatoes,2662.52
+287,2021-12-19,Bank of Baroda,Food,Debit,25.0,Cauliflower,2637.52
+289,2021-12-20,Bank of Baroda,Mobile Recharge My Jio,Debit,139.0,,2498.52
+291,2021-12-20,Swags,Bank of Baroda,Credit,1542.0,"2, 15$ Tango from DevWeek",4040.52
+292,2021-12-27,Swags,Bank of Baroda,Credit,2000.0,10$ Starbuck 5x,6040.52
+293,2021-12-27,Swags,Bank of Baroda,Credit,450.0,Amazon GC,6490.52
+294,2021-12-28,Bank of Baroda,Bank,Debit,17.7,SMS Charges,6472.82
+295,2022-1-3,Bank of Baroda,Personal Expenses,Debit,290.0,Gloves,6182.82
+297,2022-1-5,Bank of Baroda,BOB RD,Debit,2000.0,,4182.82
+304,2022-1-12,Swags,Bank of Baroda,Credit,230.0,Knotch 5$ Starbucks,4412.82
+305,2022-1-10,Bank of Baroda,Aai,Debit,507.36,Minimun Balance,3905.46
+307,2022-01-13,Bank of Baroda,Personal Expenses,Debit,60.0,,3845.46
+308,2022-01-13,Bank of Baroda,Medicine,Debit,189.0,Enerzal,3656.46
+309,2022-01-14,Bank of Baroda,Food,Debit,100.0,Chapati,3556.46
+310,2022-01-14,Bank of Baroda,Food,Debit,104.5,Ramdev Meal Zomato,3451.96
+311,2022-01-17,Bank of Baroda,Food,Debit,185.0,Peanuts & Pohe,3266.96
+312,2022-01-17,Bank of Baroda,Medicine,Debit,40.0,Cofsils,3226.96
+313,2022-01-19,Bank of Baroda,Medicine,Debit,60.0,,3166.96
+314,2022-01-19,Swags,Bank of Baroda,Credit,230.0,5$ Starbucks,3396.96
+315,2022-01-20,Swags,Bank of Baroda,Credit,9000.0,500$ Raffle from Upsolver,12396.96
+316,2022-01-20,Bank of Baroda,Food,Debit,30.0,Vegetables,12366.96
+320,2022-1-24,Bank of Baroda,Medicine,Debit,10.0,Kantha-Wati,12356.96
+321,2022-1-24,Bank of Baroda,Food,Debit,10.0,Green Chilly,12346.96
+322,2022-1-27,Bank of Baroda,Personal Expenses,Debit,50.0,,12296.96
+323,2022-1-28,Swags,Bank of Baroda,Credit,22625.0,500$ from UpSolver,34921.96
+324,2022-1-28,Bank of Baroda,Personal Expenses,Debit,200.0,Driving License Fees,34721.96
+325,2022-1-30,Bank of Baroda,Baba,Debit,27005.0,,7716.96
+326,2022-1-30,Bank of Baroda,Mobile Recharge My Jio,Debit,149.0,January,7567.96
+327,2022-1-30,Google Pay,Bank of Baroda,Credit,11.0,,7578.96
+328,2022-1-31,Bank of Baroda,Travelling,Debit,180.0,Uber for Maushi,7398.96
+329,2022-1-31,Bank of Baroda,Personal Expenses,Debit,8.0,,7390.96
+330,2022-1-31,Bank of Baroda,Personal Expenses,Debit,40.0,Water Can,7350.96
+331,2022-2-1,Bank of Baroda,Personal Expenses,Debit,528.99,Clothing for Last Day Pooja,6821.97
+334,2022-2-1,Bank of Baroda,Food,Debit,90.0,Citric Acid & Chana Dal,6731.97
+335,2022-2-1,Bank of Baroda,Relatives,Debit,500.0,Ankush Dada,6231.97
+338,2022-2-2,Bank of Baroda,Food,Debit,75.0,,6156.97
+339,2022-2-2,Bank of Baroda,Food,Debit,35.0,,6121.97
+341,2022-2-5,Bank of Baroda,Food,Debit,195.0,,5926.97
+342,2022-2-5,Bank of Baroda,Food,Debit,80.0,Ice-Cream,5846.97
+343,2022-2-7,Bank of Baroda,Food,Debit,25.0,Milk,5821.97
+344,2022-2-7,Bank,Bank of Baroda,Credit,43.0,Interest,5864.97
+345,2022-2-7,Bank of Baroda,Food,Debit,50.0,,5814.97
+346,2022-2-9,Bank of Baroda,Food,Debit,20.0,,5794.97
+347,2022-2-11,Bank of Baroda,Personal Expenses,Debit,580.0,Shower & Pumbler Charges,5214.97
+348,2022-2-11,Bank of Baroda,Food,Debit,150.0,Water,5064.97
+349,2022-2-14,Bank of Baroda,Food,Debit,35.0,Bourvita and Center Fresh,5029.97
+350,2022-2-15,Bank of Baroda,Food,Debit,66.0,Wheat Flour,4963.97
+351,2022-2-5,Bank of Baroda,BOB RD,Debit,2000.0,RD,2963.97
+356,2022-2-17,Bank of Baroda,Mobile Recharge Aai Jio,Debit,149.0,Feb-March,2814.97
+357,2022-2-18,Swags,Bank of Baroda,Credit,2100.0,40$ Tango Card,4914.97
+358,2022-2-19,Bank of Baroda,Mobile Recharge My Jio,Debit,99.0,Feb-March,4815.97
+360,2022-2-19,Bank of Baroda,Food,Debit,80.0,Bread,4735.97
+361,2022-2-21,Bank of Baroda,Food,Debit,10.0,,4725.97
+364,2022-2-28,Bank of Baroda,Food,Debit,15.0,,4710.97
+365,2022-3-1,Bank of Baroda,Food,Debit,65.0,,4645.97
+366,2022-3-2,Bank of Baroda,Food,Debit,100.0,"Kuka, WadaPav and Sprite",4545.97
+367,2022-3-2,Friends,Bank of Baroda,Credit,10.0,From Avdhut,4555.97
+370,2022-3-5,Bank of Baroda,BOB RD,Debit,2000.0,,2555.97
+371,2022-3-8,Bank of Baroda,Food,Debit,50.0,,2505.97
+374,2022-3-11,Bank of Baroda,Mobile Recharge Aai VI,Debit,99.0,,2406.97
+375,2022-3-11,Bank of Baroda,Stationery,Debit,60.0,Assignment Sheets,2346.97
+376,2022-3-11,Bank of Baroda,Mobile Recharge My Jio,Debit,149.0,,2197.97
+377,2022-3-16,Swags,Bank of Baroda,Credit,640.0,15$ GrubHub,2837.97
+378,2022-3-17,Bank of Baroda,Stationery,Debit,30.0,BC Lab Manual,2807.97
+379,2022-3-17,Bank of Baroda,Food,Debit,10.0,Chilly,2797.97
+380,2022-3-14,Bank of Baroda,Bank,Debit,17.7,SMS Charges,2780.27
+381,2022-3-18,Swags,Bank of Baroda,Credit,450.0,Dunkins Gift Card,3230.27
+382,2022-3-21,Bank of Baroda,Food,Debit,16.0,Wada-Pav,3214.27
+384,2022-3-29,Bank of Baroda,Mobile Recharge My Jio,Debit,128.0,April,3086.27
+385,2022-3-29,Bank of Baroda,D2H,Debit,100.0,,2986.27
+390,2022-4-1,Bank of Baroda,Stationery,Debit,26.0,Linux Notes,2960.27
+391,2022-4-1,Bank of Baroda,Food,Debit,30.0,Lassi,2930.27
+392,2022-4-1,Bank of Baroda,Haircut,Debit,100.0,,2830.27
+393,2022-4-1,Bank of Baroda,Food,Debit,65.0,Wheat Flour,2765.27
+394,2022-3-30,Baba,Bank of Baroda,Credit,2500.0,,5265.27
+395,2022-4-2,Bank of Baroda,Laptop Accessories,Debit,150.0,Laptop Charger Cable,5115.27
+396,2022-4-5,Bank of Baroda,Stationery,Debit,50.0,2 Files,5065.27
+397,2022-4-5,Bank of Baroda,Food,Debit,30.0,Mango Shake,5035.27
+398,2022-4-6,Swags,Bank of Baroda,Credit,250.0,Dunkin GC,5285.27
+399,2022-4-5,Bank of Baroda,BOB RD,Debit,2000.0,,3285.27
+402,2022-4-7,Bank of Baroda,Food,Debit,30.0,Mango Shake,3255.27
+403,2022-4-8,Bank of Baroda,Mobile Recharge Aai VI,Debit,133.0,,3122.27
+409,2022-4-9,Friends,Bank of Baroda,Credit,45.0,Gourav Book Bank,3167.27
+410,2022-4-10,Bank of Baroda,Food,Debit,130.0,Ghee,3037.27
+412,2022-4-11,Bank of Baroda,Stationery,Debit,120.0,Project Report - 1,2917.27
+413,2022-4-12,Bank of Baroda,Stationery,Debit,80.0,IOM Notes,2837.27
+414,2022-4-12,Bank of Baroda,Stationery,Debit,50.0,2 Trimax Refill,2787.27
+415,2022-4-12,Friends,Bank of Baroda,Credit,66.0,Project Report - 1 Contribution,2853.27
+416,2022-4-13,Bank of Baroda,Food,Debit,30.0,Mango Shake,2823.27
+417,2022-4-11,Bank of Baroda,Food,Debit,32.0,WadaPav,2791.27
+419,2022-4-14,Baba,Bank of Baroda,Credit,3000.0,,5791.27
+420,2022-4-14,Bank of Baroda,Personal Expenses,Debit,1051.0,Sparx Shoes,4740.27
+423,2022-4-15,Bank of Baroda,Food,Debit,125.0,Snacks for Baba's Journey,4615.27
+424,2022-04-16,Bank of Baroda,Mobile Recharge My Jio,Debit,15.0,1 GB Data,4600.27
+425,2022-04-17,Bank of Baroda,Food,Debit,30.0,,4570.27
+426,2022-04-17,Bank of Baroda,Food,Debit,30.0,Mango Shake,4540.27
+427,2022-04-19,Bank of Baroda,Mobile Recharge My Jio,Debit,149.0,,4391.27
+428,2022-04-20,Swags,Bank of Baroda,Credit,1046.0,Doordash GC,5437.27
+429,2022-04-21,Bank of Baroda,Food,Debit,90.0,Mango Shake & Chole Bhature,5347.27
+430,2022-4-23,Bank of Baroda,Personal Expenses,Debit,70.0,Laptop Charger Inverter,5277.27
+431,2022-4-24,Bank of Baroda,Laptop Accessories,Debit,344.0,Keyboad Cover,4933.27
+433,2022-4-25,Bank of Baroda,Stationery,Debit,45.0,Trimax Refill and Ball,4888.27
+434,2022-4-25,Bank of Baroda,Grocery,Debit,72.0,Flour,4816.27
+436,2022-4-30,Bank of Baroda,Stationery,Debit,30.0,Linux Notes & NA Pracs Print Out,4786.27
+437,2022-5-3,Bank of Baroda,Stationery,Debit,20.0,NA & Python Prac Print out,4766.27
+438,2022-5-3,Bank,Bank of Baroda,Credit,27.0,Interest,4793.27
+440,2022-5-4,Bank of Baroda,Stationery,Debit,1.0,Print Out,4792.27
+441,2022-5-5,Bank of Baroda,BOB RD,Debit,2000.0,,2792.27
+442,2022-5-6,Bank of Baroda,Stationery,Debit,5.0,,2787.27
+443,2022-5-6,Bank of Baroda,Stationery,Debit,9.0,Print Out,2778.27
+444,2022-5-9,Maha DBT,Bank of Baroda,Credit,200.0,Scholarship Installment,2978.27
+445,2022-5-11,Bank of Baroda,Mobile Recharge My Jio,Debit,109.0,,2869.27
+447,2022-5-11,Bank of Baroda,Stationery,Debit,13.0,,2856.27
+448,2022-5-12,Bank of Baroda,Medicine,Debit,52.0,For Tirupati Trip,2804.27
+449,2022-5-12,Bank of Baroda,Medicine,Debit,130.0,For Tirupati Trip,2674.27
+450,2022-5-12,Bank of Baroda,Personal Expenses,Debit,335.0,Tirupati Trip,2339.27

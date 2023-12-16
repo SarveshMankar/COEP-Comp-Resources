@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1612781928 source:d:\sem 4\dsa 2\assignments\assgn_1\bst.c
+	"bst.h"
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+
+1612014823 source:d:\sem 4\dsa 2\assignments\assgn_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bst.h"
+
+1612255602 d:\sem 4\dsa 2\assignments\assgn_1\bst.h
+

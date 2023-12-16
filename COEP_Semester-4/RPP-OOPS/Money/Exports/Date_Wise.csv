@@ -1,0 +1,41 @@
+Id,Date,From,To,D/C,Amount,Narration
+390,2022-4-1,Bank of Baroda,Stationery,Debit,26.0,Linux Notes
+391,2022-4-1,Bank of Baroda,Food,Debit,30.0,Lassi
+392,2022-4-1,Bank of Baroda,Haircut,Debit,100.0,
+393,2022-4-1,Bank of Baroda,Food,Debit,65.0,Wheat Flour
+395,2022-4-2,Bank of Baroda,Personal Expenses,Debit,150.0,Laptop Charger Cable
+396,2022-4-5,Bank of Baroda,Stationery,Debit,50.0,2 Files
+397,2022-4-5,Bank of Baroda,Food,Debit,30.0,Mango Shake
+398,2022-4-6,Swags,Bank of Baroda,Credit,250.0,Dunkin GC
+399,2022-4-5,Bank of Baroda,BOB RD,Debit,2000.0,
+400,2022-4-6,Baba,Cash,Credit,200.0,For Book Bank
+401,2022-4-7,Cash,College Stuff,Debit,90.0,Book Bank
+402,2022-4-7,Bank of Baroda,Food,Debit,30.0,Mango Shake
+403,2022-4-8,Bank of Baroda,Mobile Recharge Aai VI,Debit,133.0,
+404,2022-4-8,Amazon Pay Wallet,Mobile Recharge Aai VI,Debit,52.0,
+405,2022-4-8,Amazon Pay,Amazon Pay Wallet,Credit,45.0,CashBack fo Aai's Recharge
+406,2022-4-10,Cash,Travelling,Debit,80.0,College
+407,2022-4-10,Baba,Cash,Credit,800.0,For Bus Pass
+408,2022-4-11,Cash,Travelling,Debit,750.0,Bus Pass
+409,2022-4-9,Friends,Bank of Baroda,Credit,45.0,Gourav Book Bank
+410,2022-4-10,Bank of Baroda,Food,Debit,130.0,Ghee
+411,2022-4-10,Amazon Pay,Amazon Pay Wallet,Credit,3.0,Cashback
+412,2022-4-11,Bank of Baroda,Stationery,Debit,120.0,Project Report - 1
+413,2022-4-12,Bank of Baroda,Stationery,Debit,80.0,IOM Notes
+414,2022-4-12,Bank of Baroda,Stationery,Debit,50.0,2 Trimax Refill
+415,2022-4-12,Friends,Bank of Baroda,Credit,66.0,Project Report - 1 Contribution
+416,2022-4-13,Bank of Baroda,Food,Debit,30.0,Mango Shake
+417,2022-4-11,Bank of Baroda,Food,Debit,32.0,WadaPav
+418,2022-4-13,Amazon Pay,Amazon Pay Wallet,Credit,5.0,
+419,2022-4-14,Baba,Bank of Baroda,Credit,3000.0,
+420,2022-4-14,Bank of Baroda,Personal Expenses,Debit,1051.0,Sparx Shoes
+421,2022-4-14,Amazon Pay Wallet,Personal Expenses,Debit,53.0,Sparx Shoes
+422,2022-4-14,Amazon Pay,Amazon Pay Wallet,Credit,75.0,Cashback from shoes
+423,2022-4-15,Bank of Baroda,Food,Debit,125.0,Snacks for Baba's Journey
+424,2022-04-16,Bank of Baroda,Mobile Recharge My Jio,Debit,15.0,1 GB Data
+425,2022-04-17,Bank of Baroda,Food,Debit,30.0,
+426,2022-04-17,Bank of Baroda,Food,Debit,30.0,Mango Shake
+427,2022-04-19,Bank of Baroda,Mobile Recharge My Jio,Debit,149.0,
+428,2022-04-20,Swags,Bank of Baroda,Credit,1046.0,Doordash GC
+429,2022-04-21,Bank of Baroda,Food,Debit,90.0,Mango Shake & Chole Bhature
+430,2022-4-25,Bank of Baroda,Baba,Debit,2.0,Tp

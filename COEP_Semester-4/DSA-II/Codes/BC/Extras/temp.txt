@@ -1,0 +1,267 @@
+    /*
+    char str[]="9999+10";
+    evaluate(str,&head1,&head2);
+    printHeads(head1,head2);
+
+    result = add(head1,head2,result);
+    printf("\n");
+    display(result);
+    printf("\n%s=",str);
+    displayAnswer(result);
+
+    seperator();
+    
+    char str1[]="45801-123";
+    head1=head2=NULL;
+    evaluate(str1,&head1,&head2);
+    printHeads(head1,head2);
+    result=NULL;
+    result = subtract(head1,head2,result);
+    printf("\n");
+    display(result);
+    printf("\n%s=",str1);
+    displayAnswer(result);
+
+    char str3[]="1999-2";
+    head1=head2=NULL;
+    evaluate(str3,&head1,&head2);
+    printHeads(head1,head2);
+    result=NULL;
+    result = subtract(head1,head2,result);
+    printf("\n");
+    display(result);
+    printf("\n%s=",str3);
+    displayAnswer(result);*/
+
+    //char str1[] = "54*67";
+    //char str1[] = "6793*8542";
+    //char str1[] = "123*11";
+    //char str1[] = "16871414614687414418451341654168*148618978465413987";
+
+    /*evaluate(str1,&head1,&head2);
+    printHeads(head1,head2);
+    result = multiply(head1,head2,result);
+    printf("\nMain Function Answer: ");
+    display(result);*/
+
+    /*char str1[] = "10^10";
+    evaluate(str1,&head1,&head2);
+    
+    printf("\nHead 1: Reversed: ");
+    display(head1);
+
+    printf("\nHead 2: Reversed: ");
+    display(head2);
+
+    raiseTo(head1,head2);*/
+
+    //char str1[] = "6756454593*854455158715168379468712";
+    //char str1[] = "123*11";
+    //char str1[] ="6793*8542";
+    
+    //char str1[] = "16871414614687414418451341654168*148618978465413987";
+    
+    /*char str1[] ="6793*8542";
+    evaluate(str1,&head1,&head2);
+
+    printHeads(head1,head2);
+    result = multiply(head1,head2,result);
+    printf("\nMain Function Answer: ");
+    display(result);*/
+    
+    /*char str1[] ="000001+00000000000000005773087481613643376229746092194216";
+    evaluate(str1,&head1,&head2);
+    result=add(head1,head2,result);
+    display(result);
+    seperator();*/
+
+    /*char str1[] = "10^20";
+    evaluate(str1,&head1,&head2);
+    raiseTo(head1,head2);*/
+
+    /*
+    Subtract
+    char str3[]="1100-1100";
+    head1=head2=NULL;
+    evaluate(str3,&head1,&head2);
+    printHeads(head1,head2);
+    result=NULL;
+    result = subtract(head1,head2,result);
+    printf("\n");
+    display(result);
+    printf("\n%s=",str3);
+    displayAnswer(result);*/
+
+
+    /*char str1[] = "1687894165489456541/645465476";
+    evaluate(str1,&head1,&head2);
+    divide(head1,head2);*/
+
+
+
+
+
+temp2.c1
+
+// typedef struct operator{
+//     char op;
+// } operator;
+
+// typedef struct LL{
+//     node *n1;
+//     operator *op;
+//     struct LL *next;
+// } LL;
+
+// void displayNode(node *n1){
+//     node *temp = n1;
+//     while(temp != NULL){
+//         printf("%d", temp->data);
+//         temp = temp->next;
+//     }
+// }
+
+// int countLLNodes(LL *head){
+//     int count = 0;
+//     LL *temp = head;
+//     while(temp != NULL){
+//         count++;
+//         temp = temp->next;
+//     }
+//     return count;
+// }
+
+// void displayLL(LL *head){
+//     LL *temp = head;
+//     int i=0;
+//     while(temp != NULL){
+//         printf("\n%d->", i++);
+//         if (temp->n1 != NULL){
+//             displayNode(temp->n1);
+//             printf("\n");
+//         }
+//         if (temp->op != NULL){
+//             printf("%c", temp->op->op);
+//             printf("\n");
+//         }
+//         temp = temp->next;
+//     }
+// }
+
+// void appendLL(LL **head, node *n1, operator *op){
+//     if (n1 == NULL && op == NULL){
+//         // printf("Error: Both are NULL");
+//         return;
+//     }else{
+//         LL *newNode = (LL *)malloc(sizeof(LL));
+//         newNode->n1 = n1;
+//         newNode->op = op;
+//         newNode->next = NULL;
+
+//         if(*head == NULL){
+//             *head = newNode;
+//         }
+//         else{
+//             LL *temp = *head;
+//             while(temp->next != NULL){
+//                 temp = temp->next;
+//             }
+//             temp->next = newNode;
+//         }
+//     }
+// }
+
+// LL *makeIt(char str[], LL *head){
+//     int len = strlen(str);
+
+//     node *n1 = (node *)malloc(sizeof(node));
+//     n1=NULL;    
+
+//     for(int i=0; i<len; i++){
+//         // printf("%c\n", str[i]);
+//         if(!(isOperator(str[i]))){
+//             if(str[i]!=' '){
+//                 append(&n1, str[i]-'0');
+//             }
+//             if (str[i]==' '){
+//                 operator *op = (operator *)malloc(sizeof(operator));
+//                 op=NULL;
+//                 n1=reverse(n1);
+//                 appendLL(&head, n1, op);
+//                 n1=NULL;
+//             }
+//         }
+//         if(isOperator(str[i])){
+//             operator *op = (operator *)malloc(sizeof(operator));
+//             op->op = str[i];
+//             n1=NULL;
+//             appendLL(&head, n1, op);
+//             op=NULL;
+//         }
+//     }
+
+//     return head;
+// }
+
+// void removeLLNode(LL **head, LL *n1){
+//     LL *temp = (LL *)malloc(sizeof(LL));
+//     temp = *head;
+//     if (temp == n1){
+//         *head = temp->next;
+//         free(temp);
+//         return;
+//     }
+//     while(temp->next != n1){
+//         temp = temp->next;
+//     }
+//     temp->next = n1->next;
+//     free(n1);
+// }
+
+// void insertTheSolution(LL *head, LL *pos, node *result){
+//     LL *newNode = (LL *)malloc(sizeof(LL));
+//     newNode->n1 = result;
+//     newNode->op = NULL;
+//     newNode->next = pos->next;
+//     pos->next = newNode;
+// }
+
+
+
+
+
+// node *greaterThan(node *hhead1, node *hhead2){
+//     node *head1=(node *)malloc(sizeof(node));
+//     head1=makeCopy(head1);
+
+//     node *head2=(node *)malloc(sizeof(node));
+//     head2=makeCopy(head2);
+
+//     int comparsion=compare(head1,head2);
+
+//     node *r=(node*)malloc(sizeof(node));
+//     if(comparsion==-1){
+//         append(&r,1);
+//     }
+//     r=removeZeros(r);
+//     return r;
+// }
+
+
+
+    // printf("Final Quotient: ");
+    // display(mq);
+    // printf("\n");
+    // printf("Final Remainder: ");
+    // display(rem);
+
+
+
+    // seperator();
+    // printf("\nMain Function Half Divide answer: ");
+    // display(ans);
+    // printf("\nMain Function Half Divide c: ");
+    // display(c);
+    // seperator();
+
+
