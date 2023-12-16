@@ -1,0 +1,20 @@
+Dump of assembler code for function main:
+   0x000000000000114e <+0>:	push   %rbp
+   0x000000000000114f <+1>:	mov    %rsp,%rbp
+   0x0000000000001152 <+4>:	sub    $0x10,%rsp
+   0x0000000000001156 <+8>:	mov    %fs:0x28,%rax
+   0x000000000000115f <+17>:	mov    %rax,-0x8(%rbp)
+   0x0000000000001163 <+21>:	xor    %eax,%eax
+   0x0000000000001165 <+23>:	movl   $0x64,-0xc(%rbp)
+   0x000000000000116c <+30>:	lea    -0xc(%rbp),%rax
+   0x0000000000001170 <+34>:	mov    %rax,%rdi
+   0x0000000000001173 <+37>:	call   0x1139 <number>
+   0x0000000000001178 <+42>:	mov    $0x0,%eax
+   0x000000000000117d <+47>:	mov    -0x8(%rbp),%rdx
+   0x0000000000001181 <+51>:	sub    %fs:0x28,%rdx
+   0x000000000000118a <+60>:	je     0x1191 <main+67>
+   0x000000000000118c <+62>:	call   0x1030 <__stack_chk_fail@plt>
+   0x0000000000001191 <+67>:	leave  
+   0x0000000000001192 <+68>:	ret    
+End of assembler dump.
+
